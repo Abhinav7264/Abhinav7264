@@ -7,8 +7,6 @@ I'm a System Engineer with years of hands-on experience in Infrastructure as Cod
 
 💻 From scripting madness to deploying with style, I'm all about:
 
-🔥 Creating smooth CI/CD pipelines
-
 📦 Containerizing all the things
 
 ☁️ Playing with the cloud
